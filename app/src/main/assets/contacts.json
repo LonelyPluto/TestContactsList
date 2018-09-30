@@ -1,0 +1,90 @@
+{
+    "IsSuccess": "1",
+    "Message": "读取成功!",
+    "data": {
+        "employeeSearchMs": [
+            {
+                "PY": "A",
+                "employeeSearches": [
+                    {
+                        "EmployeeName": "艾明荣",
+                        "PY": "A"
+                    }
+                ]
+            },
+            {
+                "PY": "B",
+                "employeeSearches": [
+                    {
+                        "EmployeeName": "白远韬",
+                        "PY": "B"
+                    },
+                    {
+                        "EmployeeName": "白美健",
+                        "PY": "B"
+                    },
+                    {
+                        "EmployeeName": "卞越",
+                        "PY": "B"
+                    },
+                    {
+                        "EmployeeName": "栢吉龙",
+                        "PY": "B"
+                    }
+                ]
+            },
+            {
+                "PY": "C",
+                "employeeSearches": [
+                    {
+                        "EmployeeName": "陈凤",
+                        "PY": "C"
+                    },
+                    {
+                        "EmployeeName": "陈正刚",
+                        "PY": "C"
+                    }
+                ]
+            },
+            {
+                "PY": "D",
+                "employeeSearches": [
+                    {
+                        "EmployeeName": "董南志",
+                        "PY": "D"
+                    }
+                ]
+            },
+            {
+                "PY": "F",
+                "employeeSearches": [
+                    {
+                        "EmployeeName": "符娇",
+                        "PY": "F"
+                    },
+                    {
+                        "EmployeeName": "傅蔚",
+                        "PY": "F"
+                    }
+                ]
+            },
+            {
+                "PY": "G",
+                "employeeSearches": [
+                    {
+                        "EmployeeName": "龚波",
+                        "PY": "G"
+                    },
+                    {
+                        "EmployeeName": "高超",
+                        "PY": "G"
+                    },
+                    {
+                        "EmployeeName": "高从江",
+                        "PY": "G"
+                    }
+                ]
+            }
+        ]
+    }
+}
